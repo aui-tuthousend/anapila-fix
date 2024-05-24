@@ -43,10 +43,9 @@ body{
 }
 
 header{
+    /*position: sticky;*/
     width: 100vw;
     height: 8rem;
-    /*background: black;*/
-    /*color: white;*/
     padding: 0rem 4rem 0 5rem;
     display: flex;
     justify-content: flex-start;
@@ -69,7 +68,7 @@ footer{
 
     width: 100vw;
     height: 25rem;
-    background: #78CF95;
+    background: #34AFBA;
 
     margin-top:10rem ;
     padding: 5rem 10rem 0 11rem;
