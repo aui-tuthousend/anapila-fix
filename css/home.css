@@ -52,11 +52,11 @@
     padding: 0 10rem 0 11rem;
     width: 100vw;
     gap: 2rem;
-
+    /*flex-wrap: wrap;*/
 }
 
 .c3 p{
-    width: 500px;
+    width: 50%;
 }
 
 .block{
@@ -134,6 +134,7 @@
 
 .testi{
     width: 100%;
+    flex-wrap: wrap;
 }
 
 .moni{

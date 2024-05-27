@@ -1,10 +1,10 @@
-.c1{
+.ce1{
     margin-top: 7rem;
     gap: 2rem;
     text-align: center;
 }
 
-.c2{
+.ce2{
     margin-top: 5rem;
     width: 100vw;
     height: 30rem;
@@ -16,17 +16,32 @@
     height: 100%;
 }
 
-.c3{
+.ce3{
     margin-top: 5rem;
     text-align: center;
     gap: 3rem;
 }
 
-.c3 p{
+.ce3 p{
     width: 40rem;
 }
 
-.c4{
+.ce4{
+    margin-top: 10rem;
+    width: 50%;
+    padding:2rem 2rem 2rem 2rem;
+}
+
+.c4-1{
+    width: 100%;
+    height: 5rem;
+    background: black;
+    color: white;
+    border-radius: 1rem;
+    padding: 0 2rem 0 2rem;
+}
+
+.ce5{
     left: 0;
     margin-top: 10rem;
     width: 100vw;
@@ -42,7 +57,13 @@
 }
 
 .team{
-    width: 30rem;
+    width: 25rem;
     height: 30rem;
     background: yellow;
+    padding: 1rem;
+}
+
+.team-1{
+    width: 100%;
+    height: 100%;
 }
