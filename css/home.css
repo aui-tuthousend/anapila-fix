@@ -59,6 +59,16 @@
     width: 50%;
 }
 
+.c3-1{
+    overflow-x: auto;
+    gap: 2rem;
+    /*padding-bottom: 2rem;*/
+}
+
+.c3-1::-webkit-scrollbar{
+    display: none;
+}
+
 .block{
     gap: 0.5rem;
     margin-top: 2rem;
