@@ -67,11 +67,11 @@ footer{
     /*justify-content: space-between;*/
 
     width: 100vw;
-    height: 25rem;
+    /*height: 25rem;*/
     background: #34AFBA;
 
     margin-top:10rem ;
-    padding: 5rem 10rem 0 11rem;
+    padding: 5rem 10rem 7% 11rem;
     /*color: white;*/
 }
 
@@ -80,8 +80,25 @@ footer{
     gap: 1rem;
 }
 
+.info{
+    flex-wrap: wrap;
+    gap: 2rem;
+}
+
 .info h3{
     width: 20rem;
 }
+
+@media (max-width: 800px) {
+    header, footer{
+        width: 100vw;
+        padding: 8% 10% 10% 5%;
+    }
+
+    .hc1{
+        margin-right: 9%;
+    }
+}
+
 
 
